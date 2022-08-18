@@ -21,4 +21,4 @@ ___
 ___
 ## Link
 ___
-[Horiseon Marketing Strategies](shelcloyd.github.io/horiseon-code-refactor)
+[Horiseon Marketing Strategies](https://shelcloyd.github.io/horiseon-code-refactor/)
